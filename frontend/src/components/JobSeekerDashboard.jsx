@@ -180,7 +180,7 @@ export default function JobSeekerDashboard() {
       <div className="bg-blue-600 pb-28 pt-12">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl md:text-4xl font-bold text-white tracking-tight">
-            Find your next dream job, {user.name.split(' ')[0]}! 🚀
+            Find your next dream job, {user.name.split(' ')[0]}! 
           </h1>
           <p className="mt-4 text-blue-100 text-lg max-w-2xl mx-auto">
             Search and filter through available opportunities from top companies.
